@@ -26,8 +26,6 @@ Welcome to the Wedding Management System! This project provides an all-in-one pl
 
 ## Installation
 
-## Installation
-
 1. **Clone the repository:**
    - Clone the repository from GitHub to your local machine or download the zip file.
 
