@@ -65,27 +65,32 @@ Welcome to the **Wedding Management System**! This project provides an all-in-on
 ## 📸 Screenshots
 
 ### Login Page  
-![Login Page](outputs/login_page.png)  
+![image](https://github.com/user-attachments/assets/c28c7294-164f-4490-9748-78b8711945fe)
 
 ### Admin Dashboard  
-![Admin Dashboard](outputs/admin_dashboard.png)  
+![image](https://github.com/user-attachments/assets/58d63659-a8e5-47eb-87a4-3a07487c8fd4)
 
 ### Admin Login Page  
-![Admin Login Page](outputs/admin_login_page.png)  
+![image](https://github.com/user-attachments/assets/de5dc87f-ed60-40e4-9945-7466b9c2d147)
+  
 
 ### Client Management  
-![Client Management](outputs/client_page.png)  
+![image](https://github.com/user-attachments/assets/e78f3505-e5ea-468f-a135-3c26cb5288ae)
+ 
 
 ### Event Page  
-![Event Page](outputs/events_page.png)  
+![image](https://github.com/user-attachments/assets/1d7d22ce-80b0-4c33-a0fe-29ae78b4c664)
+ 
 
 ### Gallery  
-![Gallery](outputs/Gallery_page.png)  
+![image](https://github.com/user-attachments/assets/810fd093-f182-4b71-bef6-596d37ffa789)
 
-### Services and Packages  
-![Services and Packages](outputs/services_and_packages.png)  
+### Services and Packages
+![image](https://github.com/user-attachments/assets/c41d3715-94c4-425d-8d14-b1d82e0803bc)
+ 
 
 ### User Management Page  
-![User Management Page](outputs/user_management_page.png)  
+![image](https://github.com/user-attachments/assets/735afac3-05a3-4215-afcf-642753a0624a)
+
 
 ---
