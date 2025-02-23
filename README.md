@@ -1,6 +1,7 @@
 # Wedding Management System
+Welcome to the **Wedding Management System**! This project provides an all-in-one platform for planning and managing weddings efficiently. Designed for couples, vendors, and planners, it streamlines the entire process with an easy-to-use web-based solution.
 
-Welcome to the Wedding Management System! This project provides an all-in-one platform for planning and managing weddings efficiently. Designed for couples, vendors, and planners, it streamlines the entire process with an easy-to-use web-based solution.
+---
 
 ## 🚀 Features
 
@@ -18,27 +19,73 @@ Welcome to the Wedding Management System! This project provides an all-in-one pl
 - Assist in coordinating between couples and vendors.
 - Simplify task management and ensure smooth execution.
 
+---
+
 ## 🛠️ Technologies Used
+
 - **Frontend**: HTML, CSS, Bootstrap
 - **Backend**: PHP
 - **Database**: MySQL
 - **Server**: XAMPP
 
-## Installation
+---
 
-1. **Clone the repository:**
-   - Clone the repository from GitHub to your local machine or download the zip file.
+## 🎨 Highlights
 
-2. **Set up XAMPP and place the project folder in the `htdocs` directory:**
-   - Download and install XAMPP on your computer.
-   - Start the Apache and MySQL modules in XAMPP to run the web server and database.
-   - Move the cloned project folder into the `htdocs` directory inside your XAMPP installation directory (e.g., `C:\xampp\htdocs`).
+1. **User-Friendly Interface**:
+   - Intuitive navigation and clear layouts make it easy for users to access features.
 
-3. **Create the database in MySQL using the provided SQL script:**
-   - Open phpMyAdmin (typically accessible at `http://localhost/phpmyadmin`).
-   - Create a new database called `wedding_management_system`.
-   - Import the provided SQL script (`database.sql`) into the newly created database. This will set up all necessary tables and initial data.
+2. **Comprehensive Planning Tools**:
+   - Organize and track all wedding-related tasks in one place.
 
-4. **Open the project in your browser to start using the Wedding Management System:**
-   - In your web browser, go to `http://localhost/your_project_folder` to access the Wedding Management System.
-   - Follow the setup instructions for the initial configuration if required.
+3. **Secure and Reliable**:
+   - Ensures data security with robust authentication mechanisms.
+
+---
+
+## 📂 Project Structure
+
+- **Login System**: Secure access for admins and users.
+- **Admin Dashboard**: Manage users, bookings, and services efficiently.
+- **Client Pages**: A tailored interface for couples to plan their dream weddings.
+- **Vendor Pages**: Empower vendors to promote their services.
+- **Dynamic Pricing and Packages**: Customizable offerings based on client preferences.
+- **Gallery**: Showcase events and completed projects.
+
+---
+
+## 🔍 How to Use
+
+1. Clone the repository and set up the environment using XAMPP.
+2. Import the database schema provided.
+3. Access the application via a web browser and start managing your wedding tasks.
+
+---
+
+## 📸 Screenshots
+
+### Login Page  
+![Login Page](outputs/login_page.png)  
+
+### Admin Dashboard  
+![Admin Dashboard](outputs/admin_dashboard.png)  
+
+### Admin Login Page  
+![Admin Login Page](outputs/admin_login_page.png)  
+
+### Client Management  
+![Client Management](outputs/client_page.png)  
+
+### Event Page  
+![Event Page](outputs/events_page.png)  
+
+### Gallery  
+![Gallery](outputs/Gallery_page.png)  
+
+### Services and Packages  
+![Services and Packages](outputs/services_and_packages.png)  
+
+### User Management Page  
+![User Management Page](outputs/user_management_page.png)  
+
+---
